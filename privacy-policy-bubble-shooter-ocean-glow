@@ -1,0 +1,127 @@
+Privacy Policy — Bubble Shooter: Ocean Glow
+
+Effective date: April 12, 2026
+
+This Privacy Policy describes how Bubble Shooter: Ocean Glow (referred to as "we", "us", or "our") collects, uses, discloses, and protects information when you use our mobile game Bubble Shooter: Ocean Glow (the "App"). This document is written to help you comply with Google Play Store requirements and to inform users about data practices. Please read it carefully.
+
+If you are a parent or guardian and your child uses the App, please review the "Children" section below.
+
+1. Controller / Contact
+
+Developer: Mrityonjaya Games
+Email: pomorixapp@gmail.com
+Address: India
+
+Please replace the placeholders above with your actual contact details before publishing.
+
+2. What information we collect
+
+We collect and process the following categories of information. Some items below are collected directly by the App; others may be collected by third‑party services that we use (for example, ad networks or analytics providers).
+
+A. Information you provide directly
+- Support requests: If you contact us (email or in‑app support), we may collect your email address and any other information you provide in the message in order to respond.
+
+B. Automatically collected information
+- Device information: model, operating system version, device identifiers (subject to platform rules), language, and device capabilities.
+- Usage and gameplay data: gameplay events (levels played, scores, achievements, time spent), preferences, and non‑personal statistics used to improve gameplay and UX.
+- Crash and performance data: crash logs and diagnostics to detect and repair bugs and improve stability.
+- Advertising identifier: the mobile advertising identifier (Advertising ID on Android / IDFA on iOS) may be accessed by ad SDKs to serve personalized and non‑personalized ads.
+
+C. Local storage
+- The App uses local storage (for example SharedPreferences on Android) to keep game progress, preferences (sound, haptic), and lightweight settings.
+
+D. Payment / purchases
+- If the App offers in‑app purchases, purchase receipts or transaction identifiers may be processed by the underlying app store (Google Play, Apple App Store). We do not directly process payment card numbers.
+
+E. Third parties
+- Third‑party services used by the App (such as ad networks, analytics, crash reporting, or cloud services) may collect, store, and process information. These services operate under their own privacy policies. We list common examples below but you must confirm which providers you use in your build and update this policy accordingly.
+
+Common third‑party types used in mobile games:
+- Advertising networks (e.g., Google AdMob)
+- Analytics and crash reporting (e.g., Firebase Analytics / Crashlytics)
+- Platform services (Google Play Services)
+
+3. How we use the information
+
+We use the information we collect for the following purposes:
+- To operate and provide the App and its features (game state, progression, loading levels).
+- To personalize the user experience (game suggestions, in‑game content, ad preferences if applicable).
+- To serve and optimize ads, including using advertising identifiers to support personalized or non‑personalized advertising.
+- To diagnose and fix technical issues, crashes, and abuses.
+- To measure and analyze usage so we can improve the App.
+- To prevent fraud and abuse.
+- To respond to your support requests.
+
+4. Legal basis for processing (EU / EEA)
+
+If you are in the European Economic Area (EEA) or the UK, our legal bases for processing personal data are:
+- Performance of a contract (providing the App and game features).
+- Legitimate interests (improving and securing the App, serving ads—where interests are not overridden by your rights).
+- Consent: where required by law (for certain cookies, tracking, or targeted advertising) we will ask for consent prior to processing.
+
+5. Ads and third‑party advertising partners
+
+The App may display advertisements provided by third‑party ad networks. These ad networks may collect data about your device and usage to deliver ads and measure performance. Data collected may include device identifiers and advertising identifiers. Ad networks may also combine information collected from your use of the App with other information they have.
+
+If you are in a jurisdiction requiring consent for personalized advertising (for example, EEA), we will surface a consent prompt when necessary. You can opt out of interest‑based advertising via your device settings (Google Ad Settings on Android) or by using the platform privacy controls.
+
+6. Data sharing and disclosures
+
+We may disclose information in the following situations:
+- Service providers: to companies that provide services on our behalf (analytics, crash reporting, ad networks, cloud storage). These providers are contractually limited to use your data only to perform services for us.
+- Legal requirements: when required by law, subpoenas, or other legal processes, or to protect rights, property or safety.
+- Business transfers: if we are involved in a merger, acquisition, or sale of assets, your information may be transferred.
+
+7. Data retention
+
+We retain data as long as necessary to provide the App and fulfill the purposes described in this policy (for example, to keep your game progress and to analyze usage). If we store aggregated or anonymized data for analytics, it may be retained longer because it no longer identifies you. You can request deletion as described below.
+
+8. Your rights (GDPR / CCPA and similar)
+
+EU / EEA / UK (GDPR): you have the right to access, rectify, erase, restrict processing of, or obtain a copy of your personal data. You may also object to processing or request data portability where applicable. To exercise these rights contact us at the email above.
+
+California (CCPA / CPRA): California residents may request disclosure of categories of personal data collected, request deletion of personal data, and opt out of the sale of personal data. We do not knowingly sell personal information of users under 16.
+
+To submit a request, contact pomorixapp@gmail.com with a reasonable description. We will verify identity and respond within legal timeframes.
+
+9. Children
+
+The App is not intended for children under 13 (or the minimum age in your jurisdiction). We do not knowingly collect personal information from children. If you believe your child provided personal data, contact us to request deletion.
+
+10. Security
+
+We implement reasonable administrative, technical, and physical safeguards designed to protect your data. However, no system is 100% secure—if you suspect a security issue contact us immediately.
+
+11. International transfers
+
+Data collected by the App may be stored and processed in your country or in other countries where we or our service providers operate. By using the App, you consent to transfers to countries that may have different data protection laws.
+
+12. Opt‑out and choices
+
+- Ads: to limit interest‑based advertising, use your device advertising controls (Android: Google Settings → Ads; iOS: Limit Ad Tracking). Some ad networks also provide opt‑out links.
+- Analytics / crash reporting: some third‑party providers allow users to opt out; check the provider's privacy policy for instructions.
+- Cookies / local storage: you can clear local app data by uninstalling the App or clearing storage in your device settings.
+
+13. Links to other websites
+
+The App may link to third‑party websites or services (for support, policies, or ads). We are not responsible for the privacy practices of those websites. Please review their policies before providing personal data.
+
+14. Changes to this Privacy Policy
+
+We may update this policy to reflect changes in our practices or legal requirements. If we make material changes we will display a notice in the App or update the Effective Date. Please review this policy periodically.
+
+15. Third‑party services (examples)
+
+The App may use or be built with third‑party services that collect data. Common examples include:
+- Google AdMob (ads)
+- Google Play Services
+- Firebase Analytics / Crashlytics (analytics and crash reporting)
+
+IMPORTANT: Please confirm the exact third‑party SDKs included in your app (check pubspec.yaml, Android/iOS project files) and replace or expand this section with the exact provider names and links to their privacy policies before publishing.
+
+16. Contact us
+
+For privacy questions, requests to exercise your rights, or to report issues, contact:
+
+Email: pomorixapp@gmail.com
+Subject line: "Privacy Request — Bubble Shooter: Ocean Glow"
